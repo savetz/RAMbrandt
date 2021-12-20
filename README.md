@@ -31,7 +31,7 @@ sent to me by him in `2016`.
 
 *Dumper / Digitizer / GTIA Print*
 
-**Forth:**   [:open_file_folder:](Okimate-Forth) <br>
+**Forth:**    [:open_file_folder:](Okimate-Forth) <br>
 **ATR:**   [:card_index:](Okimate-ATR)
 
 ---
@@ -40,14 +40,14 @@ sent to me by him in `2016`.
 
 *RAMBrandt 3D Graphics Module*
 
-**Forth:**   [:open_file_folder:](RAMBrandt-Forth) <br>
+**Forth:**    [:open_file_folder:](RAMBrandt-Forth) <br>
 **ATR:**   [:card_index:](RAMBrandt-ATR)
 
 <br>
 
 #### 1985 / 04 / 05
 
-**Forth:**   [:open_file_folder:](RAMBrandt-1985-Forth) <br>
+**Forth:**    [:open_file_folder:](RAMBrandt-1985-Forth) <br>
 **ATR:**   [:card_index:](RAMBrandt-1985-ATR)
 
 <br>
@@ -55,7 +55,7 @@ sent to me by him in `2016`.
 #### Special A
 *17 Error Sectors*
 
-**Forth:**   [:open_file_folder:](RAMBrandt-2-Forth) <br>
+**Forth:**    [:open_file_folder:](RAMBrandt-2-Forth) <br>
 **ATR:**   [:card_index:](RAMBrandt-2-ATR)
 
 <br>
@@ -63,5 +63,5 @@ sent to me by him in `2016`.
 #### Special B
 *Different Error Sectors*
 
-**Forth:**   [:open_file_folder:](RAMBrandt-3-Forth) <br>
+**Forth:**    [:open_file_folder:](RAMBrandt-3-Forth) <br>
 **ATR:**   [:card_index:](RAMBrandt-3-ATR)
