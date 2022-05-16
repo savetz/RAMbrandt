@@ -28,9 +28,6 @@ sent to me by him in `2016`.
 | [📂][Forth Okimate] | [💾][Image Okimate] 
 
 <br>
-
----
-
 <br>
 
 ## RAMBrandt
@@ -39,12 +36,12 @@ sent to me by him in `2016`.
 
 <br>
 
-| Type    | Forth<br>Source    | Atari<br>Image     | Description
-|:-------:|:------------------:|:------------------:|:-----------
-| Latest  | [📂][Forth Latest] | [💾][Image Latest] |
-| Archive | [📂][Forth 1985]   | [💾][Image 1985]   | From: `1985 / 04 / 05`
-| Broken  | [📂][Forth A]      | [💾][Image A]      | *17 Error Sectors*
-| Broken  | [📂][Forth B]      | [💾][Image B]      | *Different Error Sectors*
+| Type         | Forth<br>Source    | Atari<br>Image     | Description
+|:------------:|:------------------:|:------------------:|:-----------:
+| Ｌａｔｅｓｔ   | [📂][Forth Latest] | [💾][Image Latest] |
+| Ａｒｃｈｉｖｅ | [📂][Forth 1985]   | [💾][Image 1985]   | `1985 / 04 / 05`
+| Ｂｒｏｋｅｎ   | [📂][Forth A]      | [💾][Image A]      | *17 Error Sectors*
+| Ｂｒｏｋｅｎ   | [📂][Forth B]      | [💾][Image B]      | *Different Error Sectors*
 
 </div>
 
