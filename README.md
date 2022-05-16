@@ -11,7 +11,8 @@
 
 ---
 
-**⸢ [Interview With Bard] ⸥ ⸢ [Discussion Of The Files] ⸥**
+[![Button Interview]][Interview]   
+[![Button Discussions]][Discussions] 
 
 ---
 
@@ -47,10 +48,10 @@
 
 <!----------------------------------------------------------------------------->
 
-[Discussion Of The Files]: https://atariage.com/forums/topic/258707-rambrandt-source-code-more-from-bard-ermentrout/
 [George Bard Ermentrout]: https://sites.pitt.edu/~phase/
-[Interview With Bard]: http://ataripodcast.libsyn.com/antic-interview-224-bard-ermentrout-rambrandt
+[Discussions]: https://atariage.com/forums/topic/258707-rambrandt-source-code-more-from-bard-ermentrout/
 [RAMBrandt]: http://www.atarimania.com/utility-atari-400-800-xl-xe-rambrandt_12480.html"
+[Interview]: http://ataripodcast.libsyn.com/antic-interview-224-bard-ermentrout-rambrandt
 [Forth]: https://forth-standard.org/
 
 <!----------------------------{ Atari Disk Images }---------------------------->
@@ -69,3 +70,9 @@
 [Forth 1985]:    Source/RAMBrandt/1985.forth   'Forth Source Code'
 [Forth B]:       Source/RAMBrandt/3.forth      'Forth Source Code'
 [Forth A]:       Source/RAMBrandt/2.forth      'Forth Source Code'
+
+
+<!-------------------------------{ Buttons }----------------------------------->
+
+[Button Discussions]: https://img.shields.io/badge/Discussions-0a497a?style=for-the-badge
+[Button Interview]: https://img.shields.io/badge/Interview-d8a228?style=for-the-badge
