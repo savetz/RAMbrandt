@@ -3,9 +3,9 @@
 
 # RAMBrandt
 
-Source code for **RAMBrandt**, a graphics program for<br>
-`Atari 8-bit` written in **FORTH** by **Bard Ermentrout**,<br>
-sent to me by him in `2016`.
+*Source code of **[RAMBrandt]** , a graphics program by* <br>
+***[George Bard Ermentrout]*** *for the `Atari 8-bit` ,* <br>
+*written in **[FORTH]** and sent to me - by him - in `2016` .*
 
 <br>
 
@@ -48,8 +48,10 @@ sent to me by him in `2016`.
 <!----------------------------------------------------------------------------->
 
 [Discussion Of The Files]: https://atariage.com/forums/topic/258707-rambrandt-source-code-more-from-bard-ermentrout/
+[George Bard Ermentrout]: https://sites.pitt.edu/~phase/
 [Interview With Bard]: http://ataripodcast.libsyn.com/antic-interview-224-bard-ermentrout-rambrandt
-
+[RAMBrandt]: http://www.atarimania.com/utility-atari-400-800-xl-xe-rambrandt_12480.html"
+[Forth]: https://forth-standard.org/
 
 <!----------------------------{ Atari Disk Images }---------------------------->
 
