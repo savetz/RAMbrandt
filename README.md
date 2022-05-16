@@ -1,9 +1,13 @@
 
+<div align = center>
+
 # RAMBrandt
 
 Source code for **RAMBrandt**, a graphics program for<br>
 `Atari 8-bit` written in **FORTH** by **Bard Ermentrout**,<br>
 sent to me by him in `2016`.
+
+<br>
 
 ---
 
@@ -11,26 +15,38 @@ sent to me by him in `2016`.
 
 ---
 
+<br>
+
 ## Okimate
 
-*Dumper / Digitizer / GTIA Print*
+<kbd> Dumper </kbd>  <kbd> Digitizer </kbd>  <kbd> GTIA Print </kbd>
 
-**Forth:**    [:open_file_folder:][Okimate-Forth] <br>
-**ATR:**   [:card_index:][Okimate-ATR]
+<br>
+
+| Forth Source        | Atari Image
+|:-------------------:|:------------------:
+| [📂][Forth Okimate] | [💾][Image Okimate] 
+
+<br>
 
 ---
 
+<br>
+
 ## RAMBrandt
 
-*3D Graphics Module*
+<kbd> 3D Graphics Module </kbd>
 
-| Type    | Forth<br>Source    | Atari<br>Images    | Description
+<br>
+
+| Type    | Forth<br>Source    | Atari<br>Image     | Description
 |:-------:|:------------------:|:------------------:|:-----------
 | Latest  | [📂][Forth Latest] | [💾][Image Latest] |
 | Archive | [📂][Forth 1985]   | [💾][Image 1985]   | From: `1985 / 04 / 05`
 | Broken  | [📂][Forth A]      | [💾][Image A]      | *17 Error Sectors*
 | Broken  | [📂][Forth B]      | [💾][Image B]      | *Different Error Sectors*
 
+</div>
 
 <!----------------------------------------------------------------------------->
 
