@@ -6,7 +6,7 @@
 # RAMBrandt
 
 *Source code of **[RAMBrandt]** , a graphics program by* <br>
-***[George Bard Ermentrout]*** *for the `Atari 8-bit` ,* <br>
+***[George Bard Ermentrout]*** *for the  `Atari 8-bit` ,* <br>
 *written in **[FORTH]** and sent to me - by him - in `2016` .*
 
 <br>
