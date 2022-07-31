@@ -1,4 +1,6 @@
 
+<br>
+
 <div align = center>
 
 # RAMBrandt
@@ -21,7 +23,7 @@
 
 ## Okimate
 
-<kbd> Dumper </kbd>  <kbd> Digitizer </kbd>  <kbd> GTIA Print </kbd>
+<kbd>  Dumper  </kbd>  <kbd>  Digitizer  </kbd>  <kbd>  GTIA Print  </kbd>
 
 <br>
 
@@ -34,7 +36,7 @@
 
 ## RAMBrandt
 
-<kbd> 3D Graphics Module </kbd>
+<kbd>  3D Graphics Module  </kbd>
 
 <br>
 
@@ -77,5 +79,5 @@
 
 <!-------------------------------{ Buttons }----------------------------------->
 
-[Button Discussions]: https://img.shields.io/badge/Discussions-0a497a?style=for-the-badge
-[Button Interview]: https://img.shields.io/badge/Interview-d8a228?style=for-the-badge
+[Button Discussions]: https://img.shields.io/badge/Discussions-0a497a?style=for-the-badge&logoColor=white&logo=AskUbuntu
+[Button Interview]: https://img.shields.io/badge/Interview-d8a228?style=for-the-badge&logoColor=white&logo=Atari
